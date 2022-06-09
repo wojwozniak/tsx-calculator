@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wojwozniak.github.io/tsx-calculator/static/css/main.86330601.css",
+    "main.js": "/wojwozniak.github.io/tsx-calculator/static/js/main.0269b557.js",
+    "index.html": "/wojwozniak.github.io/tsx-calculator/index.html",
+    "main.86330601.css.map": "/wojwozniak.github.io/tsx-calculator/static/css/main.86330601.css.map",
+    "main.0269b557.js.map": "/wojwozniak.github.io/tsx-calculator/static/js/main.0269b557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86330601.css",
+    "static/js/main.0269b557.js"
+  ]
+}
