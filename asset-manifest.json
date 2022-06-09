@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tsx-calculator/static/css/main.95e08727.css",
-    "main.js": "/tsx-calculator/static/js/main.37eeaff2.js",
+    "main.js": "/tsx-calculator/static/js/main.47ecc816.js",
     "index.html": "/tsx-calculator/index.html",
     "main.95e08727.css.map": "/tsx-calculator/static/css/main.95e08727.css.map",
-    "main.37eeaff2.js.map": "/tsx-calculator/static/js/main.37eeaff2.js.map"
+    "main.47ecc816.js.map": "/tsx-calculator/static/js/main.47ecc816.js.map"
   },
   "entrypoints": [
     "static/css/main.95e08727.css",
-    "static/js/main.37eeaff2.js"
+    "static/js/main.47ecc816.js"
   ]
 }
